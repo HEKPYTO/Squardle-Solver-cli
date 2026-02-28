@@ -2,7 +2,9 @@
 
 [![CI](https://github.com/HEKPYTO/Squardle-Solver-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/HEKPYTO/Squardle-Solver-cli/actions/workflows/ci.yml)
 
-A fast, beautiful, and robust terminal utility written in Rust to fetch and decode the daily puzzle from [Squaredle.app](https://squaredle.app).
+A fast, beautiful, and robust terminal utility written in Rust to fetch and decode the daily puzzle from [Squaredle.app](https://squaredle.app). This is the CLI companion to [SQUAREDLE-SOLVER](https://github.com/HEKPYTO/SQUAREDLE-SOLVER), a web UI solver that uses the same decoding algorithm.
+
+> This project is not affiliated with or endorsed by Squaredle.app.
 
 ## Features
 
