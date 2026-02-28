@@ -1,0 +1,20 @@
+# Build artifacts
+/target
+debug/
+*.d
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Cargo
+**/*.rs.bk
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
